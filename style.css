@@ -1,0 +1,48 @@
+.a {background-color: aqua;height:6000px;width: 100%;}
+.a1 {background-color: rgb(247, 170, 5);height: 40px;width: 100%;}
+.a2 {background-color: white;height: 600px; width: 100%;}
+.a3 {height: 600px;width: 100%;background-image: url(banner.jpg);}
+.a4 { height: 70px;width: 25%;float: left;}
+.a5 {height: 70px;width: 75%;float: right;margin-top: 10px;}
+.a4>p {text-align: center;font-size: 35px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; margin-top: 0px;}
+tr>td {padding-left: 75px;}
+.a6 {height: 500px; width: 100%; margin-top: -450PX;}
+.a7 {height: 500px; width: 40%; float: left;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 75px; margin-top: -60PX;}
+.a8 { height: 500px;width: 30%;float: left; background-image: url(img1.png);background-repeat: no-repeat;background-size: 350PX; margin-top: -60PX;background-position: center;}
+.a9 {height: 500px;width: 30%;float: right; margin-top: -60px;background-image: url(img2.png); background-repeat: no-repeat;background-size: 350PX;background-position: center;}
+.a10 {height: 800px;width: 100%;background-color:rgb(247, 170, 5) ;}
+.a11{background-color: white; height: 80px; width: 80px; border-radius: 50%; margin-top: -840PX; margin-left: 650PX;}
+.a12{background-color: white; height: 80px; width: 80px; border-radius: 50%; margin-top: -79PX; margin-left: 735PX;} 
+.a11>i{margin-left:30px; font-size: 40px; margin-top: -10px;}
+.a12>i{margin-left:25px; font-size: 40px; margin-top: -10px;}
+.a13{height: 700px; width: 100%; background-color: white; margin-top: 755px;}
+.a14{height: 622px; width: 33.33%; background-color: white; margin-top: -50px;float: left;}
+.a15{height: 622px; width: 33.33%; background-color: white; margin-top: -50px; float: left;}
+.a16{height: 622px; width: 33.33%; background-color: white;  margin-top: -50px;float: right;}
+.a17{height: 700px; width: 90%; background-color: white; margin-left: 75px;}
+.a18{height: 800px; width: 100%; background-color: black; margin-top: -60px;}
+.a19{height: 500px; width: 35%; background-color: white; margin-left: 180px; margin-top: 65px;}
+.a20{height: 500px; width: 35%; background-color: white; margin-left: 760px; margin-top: -500px;}
+.a21{height: 475px; width:30%; background-color:rgb(247, 170, 5); margin-left: 215px; margin-top: -570px;}
+.a22{height: 475px; width:30%; background-color:rgb(247, 170, 5); margin-left: 800px; margin-top: -505px;}
+.a23{height: 800px; width: 100%; background-color: white; margin-top: -60px;}
+.a24{height: 622px; width: 33.33%; background-color: white; margin-top: 50px;float: left; background-image: url(blog1.jpg); background-repeat: no-repeat; background-size: 375px;}
+.a25{height: 622px; width: 33.33%; background-color: white; margin-top: 50px; float: left; background-image: url(blog2.jpg); background-repeat: no-repeat; background-size: 375px;}
+.a26{height: 622px; width: 33.33%; background-color: white;  margin-top: 50px;float: right; background-image: url(blog3.jpg); background-repeat: no-repeat; background-size: 375px;}
+.a27{height: 800px; width: 90%; background-color: white; margin-left: 75px;}
+.a28{height: 800px; width: 100%; background-color: rgb(247, 170, 5); margin-top: 0px;}
+.a29{height: 520px; width: 25%; background-color: white; margin-top: -490px;}
+.a30{height:800px ; width: 50%; float: right;}
+.a31{height: 800px; width: 50%; float: left;}
+.a32{height: 600px; width: 100%; background-color: white;}
+.a33{height: 250px; width: 70%; background-color: white; margin-left: 300px; border-color: black; border: 1cm;} 
+.a34{background-color: whitesmoke; height: 80px; width: 80px; border-radius: 50%; margin-top: 20PX; margin-left: 650PX;}
+.a35{background-color: whitesmoke; height: 80px; width: 80px; border-radius: 50%; margin-top: -80PX; margin-left: 735PX;} 
+.a34>i{margin-left:30px; font-size: 40px; margin-top: 20px;}
+.a35>i{margin-left:25px; font-size: 40px; margin-top: 20px;}
+.a36{height: 500px; width: 100%; background-color: black;}
+.a37{height: 500px; width: 30%; background-color: red; float: left;}
+.a38{height: 500px; width: 30%; background-color: blue; float: left;} 
+.a39{height: 500px; width: 20%; background-color: yellow; float: left;}
+.a39>a{margin-top:50px ;}
+.a40{height: 500px; width: 20%; background-color: pink; float: right;}
